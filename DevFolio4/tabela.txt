@@ -1,0 +1,6 @@
+create TABLE comentarios(
+    id int,
+    nome varchar(60),
+    turma varchar(3),
+    comentario varchar(255),
+    primary key (id));
